@@ -8,7 +8,7 @@ public class SpringRestTestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringRestTestApplication.class, args);
-		System.out.println("Started");
+		System.out.println("Service is UP and running");
 	}
 
 }
